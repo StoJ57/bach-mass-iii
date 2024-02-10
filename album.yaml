@@ -1,0 +1,8 @@
+name: Mass in B minor: 3. Sanctus
+artist: J. S. Bach
+performer: Netherlands Bach Society
+art: https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88
+
+include:
+  - Sanctus (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-iii/main/Sanctus (Coro).mp3
+  - Pleni sunt caeli: https://raw.githubusercontent.com/StoJ57/bach-mass-iii/main/Pleni sunt caeli.mp3
